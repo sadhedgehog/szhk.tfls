@@ -13,3 +13,5 @@ https://zhuanlan.zhihu.com/p/577643205
 ---
 
 ![thumbnail](https://github.com/sadhedgehog/szhk.tfls/blob/main/previews/thumbnail.jpg)
+
+![thumbnail](https://github.com/sadhedgehog/szhk.tfls/blob/main/previews/station_mockup.jpg)
