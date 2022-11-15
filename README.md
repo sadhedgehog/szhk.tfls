@@ -6,7 +6,7 @@ TfL Style Transit Map for Shenzhen and Hong Kong
 
 Read about the story (in Chinese):
 
-阅读背后的故事：
+设计理念：
 
 https://zhuanlan.zhihu.com/p/577643205
 
